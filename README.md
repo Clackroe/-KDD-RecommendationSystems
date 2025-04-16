@@ -1,7 +1,7 @@
 # - Recommendation Systems Exploration [ITCS 6162]
 
 
-This repository contains coursework and project materials developed for the KDD (Knowledge Discovery and Data Mining) course, focusing on building and evaluating recommendation systems.&#8203;:contentReference[oaicite:0]{index=0}
+This repository contains coursework and project materials developed for the KDD (Knowledge Discovery and Data Mining) course, focusing on building and evaluating recommendation systems
 
 The data folder contains the data used for this project. 
 - u.* | Raw data
